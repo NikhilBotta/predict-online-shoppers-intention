@@ -31,5 +31,5 @@ Benchmark: The target F1 score is 0.55.
 Results: Provided visualizations of model performance and a breakdown of feature importance.
 
 ## Results
-Model Performance: Achieved an ##F1 score of 1.0##  .
+Model Performance: Achieved an F1 score of 1.0 .
 Key Features: Product-related duration, bounce rates, and exit rates emerged as top predictors for purchase intention.
